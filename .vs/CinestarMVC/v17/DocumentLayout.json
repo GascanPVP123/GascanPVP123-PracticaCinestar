@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\models\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\models\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\controllers\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\controllers\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\cine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\cine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\cine\\cinedescripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\cine\\cinedescripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\pelicula\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\pelicula\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\pelicula\\listadopelicula.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\pelicula\\listadopelicula.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\data\\cinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\data\\cinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\shared\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\shared\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|c:\\users\\alumno\\source\\repos\\cinestarmvc\\cinestarmvc\\cinestarmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C73B690-6BEE-4E8E-80F4-D5005A559B47}|CinestarMVC\\CinestarMVC.csproj|solutionrelative:cinestarmvc\\cinestarmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CinestarMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CinestarMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:17:54.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T14:26:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T14:31:51.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T14:31:52.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CineController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Controllers\\CineController.cs",
+              "RelativeDocumentMoniker": "CinestarMVC\\Controllers\\CineController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Controllers\\CineController.cs",
+              "RelativeToolTip": "CinestarMVC\\Controllers\\CineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:23:01.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T14:31:55.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "CinestarMVC\\Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "CinestarMVC\\Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:23:24.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cine.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Models\\Cine.cs",
+              "RelativeDocumentMoniker": "CinestarMVC\\Models\\Cine.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Models\\Cine.cs",
+              "RelativeToolTip": "CinestarMVC\\Models\\Cine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:29:20.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Data\\DbConnection.cs",
+              "RelativeDocumentMoniker": "CinestarMVC\\Data\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Data\\DbConnection.cs",
+              "RelativeToolTip": "CinestarMVC\\Data\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:24:14.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T14:28:33.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Cine\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Cine\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Cine\\Index.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\Cine\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T15:06:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CineDescripcion.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Cine\\CineDescripcion.cs",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Cine\\CineDescripcion.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Cine\\CineDescripcion.cs",
+              "RelativeToolTip": "CinestarMVC\\Views\\Cine\\CineDescripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:06:49.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Pelicula\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Pelicula\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Pelicula\\Index.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\Pelicula\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T15:05:03.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListadoPelicula.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Pelicula\\ListadoPelicula.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Pelicula\\ListadoPelicula.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Pelicula\\ListadoPelicula.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\Pelicula\\ListadoPelicula.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T15:17:03.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CineDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Data\\CineDAO.cs",
+              "RelativeDocumentMoniker": "CinestarMVC\\Data\\CineDAO.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Data\\CineDAO.cs",
+              "RelativeToolTip": "CinestarMVC\\Data\\CineDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:24:34.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CinestarMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CinestarMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:27:55.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\index.html",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Shared\\index.html",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\index.html",
+              "RelativeToolTip": "CinestarMVC\\Views\\Shared\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-24T14:33:23.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\wwwroot\\css\\estilos.css",
+              "RelativeDocumentMoniker": "CinestarMVC\\wwwroot\\css\\estilos.css",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\wwwroot\\css\\estilos.css",
+              "RelativeToolTip": "CinestarMVC\\wwwroot\\css\\estilos.css",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-24T14:59:34.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T14:29:07.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "CinestarMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-24T14:41:14.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CinestarMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CinestarMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T14:29:07.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CinestarMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\Program.cs",
+              "RelativeToolTip": "CinestarMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:17:43.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CinestarMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\CinestarMVC.csproj",
+              "RelativeDocumentMoniker": "CinestarMVC\\CinestarMVC.csproj",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\CinestarMVC\\CinestarMVC\\CinestarMVC.csproj",
+              "RelativeToolTip": "CinestarMVC\\CinestarMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T14:23:30.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
